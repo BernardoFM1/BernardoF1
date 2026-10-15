@@ -1,5 +1,7 @@
-<p align = "center" [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)>
-
+<p align = "center" >
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
+</p>
 
 # Sobre mim
 Estudante de computação no IFRJ - Campus Pinheiral e sou Técnico em automação. 
